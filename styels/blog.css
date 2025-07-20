@@ -1,0 +1,40 @@
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.second{
+    /* display: none;  jayga soho harai jay*/
+    /* visibility: hidden; <!--jayga thake but khali--> */
+}
+.blogs{
+    background-color: aqua;
+    border: 10px solid tomato;
+    margin: 40px ;
+    border-radius: 50px;
+    padding: 20px;
+    box-shadow: 20px 30px 10px rgb(56, 49, 56);
+}
+.ck{
+    border: 2px solid purple;
+    /* display: block; */
+    display: inline-block
+}
+li{
+    /* display: inline-block; */
+}
+.header{
+    height: 300px;
+    background-color: bisque;
+    background-image:url('download.jpeg');
+    /* background-repeat:repeat-x ; */
+    /* background-repeat:no-repeat ; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background: size 500px; ; */
+}
+.elit{
+   border: 2px solid peru; 
+   height: 60px;
+   display: inline-block;
+}

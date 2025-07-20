@@ -1,0 +1,38 @@
+/* <style> */
+        /* p,li{
+           color: brown;
+           font-size: 60px;
+        } */
+        #st,li{
+            background-color: rgb(185, 23, 23);
+        }
+        .cc{
+            background-color: aqua;
+        }
+        .bold{
+            font-weight:bolder;
+        }
+        .holud,.yellow{
+            background-color: rgb(86, 12, 206);
+        }
+        *{
+            margin: 50;
+        }
+        /* input[type="password"]{ attribute*/
+        input,a{
+            color: red;
+            font-size: 50px;
+            text-underline-position:unset;
+        }
+       .css{
+        font-size: 30px;
+        color: bisque;
+       }
+       .blog{
+        background-color: aqua;
+       }
+       /* div{
+        text-align: right;
+       } */
+       /*not correct */
+    /* </style> */
